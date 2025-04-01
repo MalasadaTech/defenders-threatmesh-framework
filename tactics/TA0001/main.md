@@ -5,7 +5,7 @@
 |----------------|----------------------------------------------|
 | Created        | March 31, 2025 10:00 UTC                    |
 | Last Updated   | March 31, 2025 10:00 UTC                    |
-| Contributors   | [JaneDoe](https://github.com/JaneDoe) - Initial draft |
+| Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
 This tactic focuses on analyzing the lexical structure of domain names to identify patterns adversaries use to create related or deceptive domains.
