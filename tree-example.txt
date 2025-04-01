@@ -1,32 +1,23 @@
 defenders-threatmesh-framework/
 ├── README.md                # Overview of the framework
 ├── matrix.md                # The main matrix linking to tactics and techniques
-├── contributors.md          # New file listing contributors with gratitude and table
+├── contributors.md          # List of contributors
 ├── tactics/                 # Directory for tactic main files
 │   ├── TA0001/              # Tactic: Domain Name Similarity
 │   │   └── main.md          # Overview of Domain Name Similarity
 │   ├── TA0002/              # Tactic: Registration Similarity
 │   │   └── main.md          # Overview of Registration Similarity
-│   ├── TA0003/              # Tactic: Infrastructure Similarity
-│   │   └── main.md          # Overview of Infrastructure Similarity
-│   ├── TA0004/              # Tactic: Content Similarity
-│   │   └── main.md          # Overview of Content Similarity
-│   ├── TA0005/              # Tactic: Behavioral Similarity
-│   │   └── main.md          # Overview of Behavioral Similarity
-│   └── TA0006/              # Tactic: Intelligence-based
-│       └── main.md          # Overview of Intelligence-based Techniques
+│   └── ...                  # Other tactics (TA0003–TA0006)
 ├── techniques/              # Directory for technique details
 │   ├── T0101.md             # Technique: Prefix Matching (under TA0001)
 │   ├── T0102.md             # Technique: Typosquatting (under TA0001)
-│   ├── T0103.md             # Technique: Homograph Attacks (under TA0001)
-│   ├── T0104.md             # Technique: Substring Similarity (under TA0001)
 │   ├── T0201.md             # Technique: Same Registrar (under TA0002)
-│   └── ...                  # Other techniques follow the same pattern
-├── campaigns/               # Directory for campaign details
-│   ├── CA0001.md            # Campaign: 2023 Phishing Wave
-│   ├── CA0002.md            # Campaign: Fake SaaS Scam
-│   ├── CA0003.md            # Campaign: Retail Phishing 2024
-│   ├── CA0004.md            # Campaign: Credential Harvesting Op
-│   └── CAXXXX.md            # Future campaigns assigned sequentially
+│   └── ...                  # Other techniques (T0103–T0603)
+├── examples/                # Directory for real-world examples (replaces campaigns/)
+│   ├── EX0001.md            # Example: 2023 Phishing Wave
+│   ├── EX0002.md            # Example: Fake SaaS Scam
+│   ├── EX0003.md            # Example: Retail Phishing 2024
+│   ├── EX0004.md            # Example: Credential Harvesting Op
+│   └── EXXXXX.md            # Future examples assigned sequentially
 └── docs/                    # Optional: Additional documentation
     └── contributing.md      # Guidelines for contributors
