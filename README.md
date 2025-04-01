@@ -11,7 +11,7 @@ The Defender's ThreatMesh Framework is a specialized tool designed to empower hu
 Check the [matrix](matrix.md) for a full list of tactics and techniques with links to detailed pages. Each entry is designed to guide you through pivoting strategies, backed by practical detection methods.
 
 ## Examples
-Real-world examples (EXXXXX) illustrate how adversaries deploy these techniques in the wild. Sourced from threat intelligence reports and blogs, these instances—like phishing waves using prefixed domains or registrar overlaps—provide context and hunting tips to enhance your pivot-based investigations. See the [examples/](examples/) directory for details.
+Real-world examples (EXXXXX) illustrate how threat hunters and analysts can deploy these techniques to uncover additional adversary infrastructure. Sourced from threat intelligence reports and blogs, these instances—like phishing waves using prefixed domains or registrar overlaps—provide context and hunting tips to enhance your pivot-based investigations. See the [examples/](examples/) directory for details.
 
 ## Contributors
 This framework is a collaborative effort, built by a community of threat hunters and analysts. Special thanks to all who have contributed their expertise. For a full list of contributors and their contributions, see [contributors.md](contributors.md).
