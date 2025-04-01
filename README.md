@@ -1,2 +1,11 @@
-# defenders-threatmesh-framework
-This is a framework for cyber defenders to use to perform adversary infrastructure pivots to reveal additional adversary infrastructure.
+# Defender's ThreatMesh Framework
+
+This framework helps threat hunters identify adversary pivots through domains and infrastructure, inspired by MITRE ATT&CK. It organizes techniques into tactics, providing a structured approach to uncovering related malicious activity.
+
+## Overview
+- **Purpose**: Track how adversaries pivot from one domain (e.g., "com-login.com") to others.
+- **Structure**: Tactics (TAXXXX) group related techniques (TXXXX).
+- **Usage**: Use the [matrix](matrix.md) to explore tactics and techniques.
+
+## Getting Started
+Check the [matrix](matrix.md) for a full list of tactics and techniques with links to detailed pages.
