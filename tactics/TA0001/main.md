@@ -1,16 +1,14 @@
 # TA0001: Domain Name Similarity
 
-## Created
-March 31, 2025 10:00 UTC
-
-## Last Updated
-March 31, 2025 10:00 UTC
+## Metadata
+| Field          | Details                                      |
+|----------------|----------------------------------------------|
+| Created        | March 31, 2025 10:00 UTC                    |
+| Last Updated   | March 31, 2025 10:00 UTC                    |
+| Contributors   | [JaneDoe](https://github.com/JaneDoe) - Initial draft |
 
 ## Description
 This tactic focuses on analyzing the lexical structure of domain names to identify patterns adversaries use to create related or deceptive domains.
-
-## Contributors
-- [JaneDoe](https://github.com/JaneDoe) - Initial draft
 
 ## Techniques
 - [T0101: Prefix Matching](../../techniques/T0101.md)
