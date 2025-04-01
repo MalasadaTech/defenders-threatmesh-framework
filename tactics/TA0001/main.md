@@ -4,10 +4,10 @@
 This tactic focuses on analyzing the lexical structure of domain names to identify patterns adversaries use to create related or deceptive domains.
 
 ## Techniques
-- [T1001: Prefix Matching](../../techniques/T1001.md)
-- [T1002: Typosquatting](../../techniques/T1002.md)
-- [T1003: Homograph Attacks](../../techniques/T1003.md)
-- [T1004: Substring Similarity](../../techniques/T1004.md)
+- [T0101: Prefix Matching](../../techniques/T0101.md)
+- [T0102: Typosquatting](../../techniques/T0102.md)
+- [T0103: Homograph Attacks](../../techniques/T0103.md)
+- [T0104: Substring Similarity](../../techniques/T0104.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)
