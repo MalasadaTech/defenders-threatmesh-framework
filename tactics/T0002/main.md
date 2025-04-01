@@ -5,7 +5,7 @@
 |----------------|----------------------------------------------|
 | Created        | March 31, 2025 10:00 UTC                    |
 | Last Updated   | March 31, 2025 10:00 UTC                    |
-| Contributors   | [JaneDoe](https://github.com/JaneDoe) - Initial draft |
+| Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
 This tactic focuses on identifying adversary domains through similarities in registration details, such as registrars or name servers.
