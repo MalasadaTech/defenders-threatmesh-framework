@@ -1,8 +1,7 @@
-Example of how the structure should look like.
-
 defenders-threatmesh-framework/
 ├── README.md                # Overview of the framework
 ├── matrix.md                # The main matrix linking to tactics and techniques
+├── contributors.md          # New file listing contributors with gratitude and table
 ├── tactics/                 # Directory for tactic main files
 │   ├── TA0001/              # Tactic: Domain Name Similarity
 │   │   └── main.md          # Overview of Domain Name Similarity
@@ -22,24 +21,7 @@ defenders-threatmesh-framework/
 │   ├── T0103.md             # Technique: Homograph Attacks (under TA0001)
 │   ├── T0104.md             # Technique: Substring Similarity (under TA0001)
 │   ├── T0201.md             # Technique: Same Registrar (under TA0002)
-│   ├── T0202.md             # Technique: Shared Name Servers (under TA0002)
-│   ├── T0203.md             # Technique: Similar Registration Dates (under TA0002)
-│   ├── T0204.md             # Technique: Registrant Overlap (under TA0002)
-│   ├── T0301.md             # Technique: IP Address Overlap (under TA0003)
-│   ├── T0302.md             # Technique: Shared Hosting (under TA0003)
-│   ├── T0303.md             # Technique: SSL Certificate Similarity (under TA0003)
-│   ├── T0304.md             # Technique: Similar DNS Records (under TA0003)
-│   ├── T0401.md             # Technique: Website Structure Similarity (under TA0004)
-│   ├── T0402.md             # Technique: Shared Resources (under TA0004)
-│   ├── T0403.md             # Technique: Keyword Similarity (under TA0004)
-│   ├── T0404.md             # Technique: Phishing Page Mimicry (under TA0004)
-│   ├── T0501.md             # Technique: Traffic Patterns (under TA0005)
-│   ├── T0502.md             # Technique: Malware Distribution (under TA0005)
-│   ├── T0503.md             # Technique: Command and Control Usage (under TA0005)
-│   ├── T0504.md             # Technique: Phishing Techniques (under TA0005)
-│   ├── T0601.md             # Technique: Threat Actor Association (under TA0006)
-│   ├── T0602.md             # Technique: Malware Family Ties (under TA0006)
-│   └── T0603.md             # Technique: IOC Correlation (under TA0006)
+│   └── ...                  # Other techniques follow the same pattern
 ├── campaigns/               # Directory for campaign details
 │   ├── CA0001.md            # Campaign: 2023 Phishing Wave
 │   ├── CA0002.md            # Campaign: Fake SaaS Scam
