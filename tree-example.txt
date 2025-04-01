@@ -1,0 +1,50 @@
+Example of how the structure should look like.
+
+defenders-threatmesh-framework/
+├── README.md                # Overview of the framework
+├── matrix.md                # The main matrix linking to tactics and techniques
+├── tactics/                 # Directory for tactic main files
+│   ├── TA0001/              # Tactic: Domain Name Similarity
+│   │   └── main.md          # Overview of Domain Name Similarity
+│   ├── TA0002/              # Tactic: Registration Similarity
+│   │   └── main.md          # Overview of Registration Similarity
+│   ├── TA0003/              # Tactic: Infrastructure Similarity
+│   │   └── main.md          # Overview of Infrastructure Similarity
+│   ├── TA0004/              # Tactic: Content Similarity
+│   │   └── main.md          # Overview of Content Similarity
+│   ├── TA0005/              # Tactic: Behavioral Similarity
+│   │   └── main.md          # Overview of Behavioral Similarity
+│   └── TA0006/              # Tactic: Intelligence-based
+│       └── main.md          # Overview of Intelligence-based Techniques
+├── techniques/              # Directory for technique details
+│   ├── T1001.md             # Technique: Prefix Matching (under TA0001)
+│   ├── T1002.md             # Technique: Typosquatting (under TA0001)
+│   ├── T1003.md             # Technique: Homograph Attacks (under TA0001)
+│   ├── T1004.md             # Technique: Substring Similarity (under TA0001)
+│   ├── T2001.md             # Technique: Same Registrar (under TA0002)
+│   ├── T2002.md             # Technique: Shared Name Servers (under TA0002)
+│   ├── T2003.md             # Technique: Similar Registration Dates (under TA0002)
+│   ├── T2004.md             # Technique: Registrant Overlap (under TA0002)
+│   ├── T3001.md             # Technique: IP Address Overlap (under TA0003)
+│   ├── T3002.md             # Technique: Shared Hosting (under TA0003)
+│   ├── T3003.md             # Technique: SSL Certificate Similarity (under TA0003)
+│   ├── T3004.md             # Technique: Similar DNS Records (under TA0003)
+│   ├── T4001.md             # Technique: Website Structure Similarity (under TA0004)
+│   ├── T4002.md             # Technique: Shared Resources (under TA0004)
+│   ├── T4003.md             # Technique: Keyword Similarity (under TA0004)
+│   ├── T4004.md             # Technique: Phishing Page Mimicry (under TA0004)
+│   ├── T5001.md             # Technique: Traffic Patterns (under TA0005)
+│   ├── T5002.md             # Technique: Malware Distribution (under TA0005)
+│   ├── T5003.md             # Technique: Command and Control Usage (under TA0005)
+│   ├── T5004.md             # Technique: Phishing Techniques (under TA0005)
+│   ├── T6001.md             # Technique: Threat Actor Association (under TA0006)
+│   ├── T6002.md             # Technique: Malware Family Ties (under TA0006)
+│   └── T6003.md             # Technique: IOC Correlation (under TA0006)
+├── campaigns/               # New directory for campaign details
+│   ├── CA0001.md            # Campaign: 2023 Phishing Wave
+│   ├── CA0002.md            # Campaign: Fake SaaS Scam
+│   ├── CA0003.md            # Campaign: Retail Phishing 2024
+│   ├── CA0004.md            # Campaign: Credential Harvesting Op
+│   └── CAXXXX.md            # Future campaigns assigned sequentially
+└── docs/                    # Optional: Additional documentation
+    └── contributing.md      # Guidelines for contributors
