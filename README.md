@@ -9,3 +9,6 @@ This framework helps threat hunters identify adversary pivots through domains an
 
 ## Getting Started
 Check the [matrix](matrix.md) for a full list of tactics and techniques with links to detailed pages.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
