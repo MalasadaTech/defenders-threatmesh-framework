@@ -1,4 +1,4 @@
-# Defender's ThreatMesh Framework
+# Defender's ThreatMesh Framework (DTF)
 
 This framework helps threat hunters identify adversary pivots through domains and infrastructure, inspired by MITRE ATT&CK. It organizes techniques into tactics, providing a structured approach to uncovering related malicious activity.
 
