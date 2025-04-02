@@ -1,4 +1,4 @@
-# TA0005: Domain Name Similarity
+# PTA0001: Registration Similarity
 
 ## Metadata
 | Field          | Details                                      |
@@ -8,13 +8,13 @@
 | Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
-This tactic focuses on analyzing the lexical structure of domain names to identify patterns adversaries use to create related or deceptive domains.
+This tactic focuses on identifying adversary domains through similarities in registration details, such as registrars or name servers.
 
-## Techniques
-- [T0501: Prefix Matching](../../techniques/T0501.md)
-- [T0502: Typosquatting](../../techniques/T0502.md)
-- [T0503: Homograph Attacks](../../techniques/T0503.md)
-- [T0504: Substring Similarity](../../techniques/T0504.md)
+## Pivots
+- [P0101: Same Registrar](../../pivots/P0101.md)
+- [P0102: Shared Name Servers](../../pivots/P0102.md)
+- [P0103: Similar Registration Dates](../../pivots/P0103.md)
+- [P0104: Registrant Overlap](../../pivots/P0104.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)

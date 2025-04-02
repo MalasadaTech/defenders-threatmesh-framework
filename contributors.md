@@ -10,13 +10,13 @@ The following individuals have contributed to the framework, listed in the order
 {:#malasadatech}
 
 - **Link**: [https://x.com/malasadatech](https://x.com/malasadatech), [https://malasada.tech](https://malasada.tech)
-- **Contributions**: Created the framework, initial drafts of all tactics, techniques, and campaigns
+- **Contributions**: Created the framework, initial drafts of all tactics, pivots, and campaigns
 
 ### JohnSmith
 {:#john-smith}
 
 - **Link**: [https://twitter.com/JohnSmithSec](https://twitter.com/JohnSmithSec)
-- **Contributions**: Added detection queries for T0201
+- **Contributions**: Added detection queries for P0201
 
 ### CyberAlice
 {:#cyber-alice}

@@ -1,4 +1,4 @@
-# TA0003: Content Similarity
+# PTA0002: Infrastructure Similarity
 
 ## Metadata
 | Field          | Details                                      |
@@ -8,13 +8,13 @@
 | Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
-This tactic focuses on identifying adversary infrastructure through similarities in website content, such as structure, resources, or keywords.
+This tactic focuses on identifying adversary infrastructure through similarities in hosting details, such as IP addresses, shared hosting, or DNS records.
 
-## Techniques
-- [T0301: Website Structure Similarity](../../techniques/T0301.md)
-- [T0302: Shared Resources](../../techniques/T0302.md)
-- [T0303: Keyword Similarity](../../techniques/T0303.md)
-- [T0304: Phishing Page Mimicry](../../techniques/T0304.md)
+## Pivots
+- [P0201: IP Address Overlap](../../pivots/P0201.md)
+- [P0202: Shared Hosting](../../pivots/P0202.md)
+- [P0203: SSL Certificate Similarity](../../pivots/P0203.md)
+- [P0204: Similar DNS Records](../../pivots/P0204.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)

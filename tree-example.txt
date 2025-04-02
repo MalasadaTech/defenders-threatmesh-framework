@@ -1,18 +1,18 @@
 defenders-threatmesh-framework/
 ├── README.md                # Overview of the framework
-├── matrix.md                # The main matrix linking to tactics and techniques
+├── matrix.md                # The main matrix linking to tactics and pivots
 ├── contributors.md          # List of contributors
-├── tactics/                 # Directory for tactic main files
-│   ├── TA0001/              # Tactic: Domain Name Similarity
+├── pivot-tactics/                 # Directory for tactic main files
+│   ├── PTA0001/              # Tactic: Domain Name Similarity
 │   │   └── main.md          # Overview of Domain Name Similarity
-│   ├── TA0002/              # Tactic: Registration Similarity
+│   ├── PTA0002/              # Tactic: Registration Similarity
 │   │   └── main.md          # Overview of Registration Similarity
-│   └── ...                  # Other tactics (TA0003–TA0006)
-├── techniques/              # Directory for technique details
-│   ├── T0101.md             # Technique: Prefix Matching (under TA0001)
-│   ├── T0102.md             # Technique: Typosquatting (under TA0001)
-│   ├── T0201.md             # Technique: Same Registrar (under TA0002)
-│   └── ...                  # Other techniques (T0103–T0603)
+│   └── ...                  # Other tactics (PTA0003–PTA0006)
+├── pivots/              # Directory for technique details
+│   ├── P0101.md             # Technique: Prefix Matching (under PTA0001)
+│   ├── P0102.md             # Technique: Typosquatting (under PTA0001)
+│   ├── P0201.md             # Technique: Same Registrar (under PTA0002)
+│   └── ...                  # Other pivots (P0103–P0603)
 ├── examples/                # Directory for real-world examples (replaces campaigns/)
 │   ├── EX0001.md            # Example: 2023 Phishing Wave
 │   ├── EX0002.md            # Example: Fake SaaS Scam

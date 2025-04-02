@@ -1,4 +1,4 @@
-# TA0002: Infrastructure Similarity
+# PTA0004: Behavioral Similarity
 
 ## Metadata
 | Field          | Details                                      |
@@ -8,13 +8,13 @@
 | Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
-This tactic focuses on identifying adversary infrastructure through similarities in hosting details, such as IP addresses, shared hosting, or DNS records.
+This tactic focuses on identifying adversary infrastructure through similarities in behavior, such as traffic patterns or malware distribution methods.
 
-## Techniques
-- [T0201: IP Address Overlap](../../techniques/T0201.md)
-- [T0202: Shared Hosting](../../techniques/T0202.md)
-- [T0203: SSL Certificate Similarity](../../techniques/T0203.md)
-- [T0204: Similar DNS Records](../../techniques/T0204.md)
+## Pivots
+- [P0401: Traffic Patterns](../../pivots/P0401.md)
+- [P0402: Malware Distribution](../../pivots/P0402.md)
+- [P0403: Command and Control Usage](../../pivots/P0403.md)
+- [P0404: Phishing Pivots](../../pivots/P0404.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)

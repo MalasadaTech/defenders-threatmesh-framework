@@ -1,4 +1,4 @@
-# TA0006: Intelligence-based
+# PTA0003: Content Similarity
 
 ## Metadata
 | Field          | Details                                      |
@@ -8,12 +8,13 @@
 | Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
-This tactic focuses on identifying adversary infrastructure through intelligence-based correlations, such as threat actor associations or IOCs.
+This tactic focuses on identifying adversary infrastructure through similarities in website content, such as structure, resources, or keywords.
 
-## Techniques
-- [T0601: Threat Actor Association](../../techniques/T0601.md)
-- [T0602: Malware Family Ties](../../techniques/T0602.md)
-- [T0603: IOC Correlation](../../techniques/T0603.md)
+## Pivots
+- [P0301: Website Structure Similarity](../../pivots/P0301.md)
+- [P0302: Shared Resources](../../pivots/P0302.md)
+- [P0303: Keyword Similarity](../../pivots/P0303.md)
+- [P0304: Phishing Page Mimicry](../../pivots/P0304.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)

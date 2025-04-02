@@ -1,4 +1,4 @@
-# TA0001: Registration Similarity
+# PTA0006: Intelligence-based
 
 ## Metadata
 | Field          | Details                                      |
@@ -8,13 +8,12 @@
 | Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
-This tactic focuses on identifying adversary domains through similarities in registration details, such as registrars or name servers.
+This tactic focuses on identifying adversary infrastructure through intelligence-based correlations, such as threat actor associations or IOCs.
 
-## Techniques
-- [T0101: Same Registrar](../../techniques/T0101.md)
-- [T0102: Shared Name Servers](../../techniques/T0102.md)
-- [T0103: Similar Registration Dates](../../techniques/T0103.md)
-- [T0104: Registrant Overlap](../../techniques/T0104.md)
+## Pivots
+- [P0601: Threat Actor Association](../../pivots/P0601.md)
+- [P0602: Malware Family Ties](../../pivots/P0602.md)
+- [P0603: IOC Correlation](../../pivots/P0603.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)
