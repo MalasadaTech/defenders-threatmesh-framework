@@ -1,12 +1,12 @@
 # Defender's ThreatMesh Framework (DTF) Matrix
 
-| Tactic ID               | Tactic Name                | Pivots                                                                 |
+| Pivot Tactic ID         | Pivot Tactic Name          | Pivots                                                                     |
 |-------------------------|----------------------------|----------------------------------------------------------------------------|
-| [PTA0001](pivot-tactics/PTA0001/main.md) | Registration Similarity    | [P0101](pivots/P0101.md) - Same Registrar<br>[P0102](pivots/P0102.md) - Shared Name Servers<br>[P0103](pivots/P0103.md) - Similar Registration Dates<br>[P0104](pivots/P0104.md) - Registrant Overlap |
-| [PTA0002](pivot-tactics/PTA0002/main.md) | Infrastructure Similarity  | [P0201](pivots/P0201.md) - IP Address Overlap<br>[P0202](pivots/P0202.md) - Shared Hosting<br>[P0203](pivots/P0203.md) - SSL Certificate Similarity<br>[P0204](pivots/P0204.md) - Similar DNS Records |
+| [PTA0001](pivot-tactics/PTA0001/main.md) | Registration Similarity    | [P0101](pivots/P0101.md) - Same Registrar<br>[P0102](pivots/P0102.md) - Shared Name Servers<br>[P0102.001](pivots/P0102.001.md) - Shared Name Server Domain<br>[P0103](pivots/P0103.md) - Similar Registration Dates<br>[P0104](pivots/P0104.md) - Registrant Overlap<br>[P0105](pivots/P0105.md) - Same TLD |
+| [PTA0002](pivot-tactics/PTA0002/main.md) | Infrastructure Similarity  | [P0201](pivots/P0201.md) - IP Address Overlap<br>[P0202](pivots/P0202.md) - Shared Hosting<br>[P0203](pivots/P0203.md) - SSL Certificate Similarity<br>[P0204](pivots/P0204.md) - Similar DNS Records<br>[P0205](pivots/P0205.md) - Shared AS |
 | [PTA0003](pivot-tactics/PTA0003/main.md) | Content Similarity         | [P0301](pivots/P0301.md) - Website Structure Similarity<br>[P0302](pivots/P0302.md) - Shared Resources<br>[P0303](pivots/P0303.md) - Keyword Similarity<br>[P0304](pivots/P0304.md) - Phishing Page Mimicry |
-| [PTA0004](pivot-tactics/PTA0004/main.md) | Behavioral Similarity      | [P0401](pivots/P0401.md) - Traffic Patterns<br>[P0402](pivots/P0402.md) - Malware Distribution<br>[P0403](pivots/P0403.md) - Command and Control Usage<br>[P0404](pivots/P0404.md) - Phishing Pivots |
+| [PTA0004](pivot-tactics/PTA0004/main.md) | Behavioral Similarity      | [P0401](pivots/P0401.md) - Traffic Patterns<br>[P0402](pivots/P0402.md) - Malware Distribution<br>[P0403](pivots/P0403.md) - Command and Control Usage<br>[P0404](pivots/P0404.md) - Phishing Techniques |
 | [PTA0005](pivot-tactics/PTA0005/main.md) | Domain Name Similarity     | [P0501](pivots/P0501.md) - Prefix Matching<br>[P0502](pivots/P0502.md) - Typosquatting<br>[P0503](pivots/P0503.md) - Homograph Attacks<br>[P0504](pivots/P0504.md) - Substring Similarity |
 | [PTA0006](pivot-tactics/PTA0006/main.md) | Intelligence-based         | [P0601](pivots/P0601.md) - Threat Actor Association<br>[P0602](pivots/P0602.md) - Malware Family Ties<br>[P0603](pivots/P0603.md) - IOC Correlation |
 
-Click a tactic ID (e.g., [PTA0001](pivot-tactics/PTA0001/main.md)) for an overview or a technique ID (e.g., [P0101](pivots/P0101.md)) for details.
+Click a pivot tactic ID (e.g., [PTA0001](pivot-tactics/PTA0001/main.md)) for an overview or a pivot ID (e.g., [P0101](pivots/P0101.md)) for details.
