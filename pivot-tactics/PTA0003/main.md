@@ -11,10 +11,12 @@
 This pivot tactic focuses on identifying adversary domains through similarities in website content, such as structure, shared or identical resources, keywords, or phishing page mimicry.
 
 ## Pivots
-- [P0301: Website Structure Similarity](../../pivots/P0301.md)
-- [P0302: Shared Resources](../../pivots/P0302.md)
-- [P0303: Same Resources](../../pivots/P0303.md)
-- [P0304: Keyword Similarity](../../pivots/P0304.md)
+- [P0301: Website Structure Similarity](../../pivots/P0301.md)  
+    - [P0301.001: Page Title Match](../../pivots/P0301.001.md)  
+    - [P0301.002: Embedded Code Similarity](../../pivots/P0301.002.md)  
+- [P0302: Shared Resources](../../pivots/P0302.md)  
+- [P0303: Same Resources](../../pivots/P0303.md)  
+- [P0304: Keyword Similarity](../../pivots/P0304.md)  
 - [P0305: Phishing Page Mimicry](../../pivots/P0305.md)
 
 ## Navigation
