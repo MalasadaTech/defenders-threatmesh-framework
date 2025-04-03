@@ -1,4 +1,4 @@
-# PTA0005: Domain Name Similarity
+# PTA0004: Domain Name Similarity
 
 ## Metadata
 | Field          | Details                                      |
@@ -11,10 +11,10 @@
 This tactic focuses on analyzing the lexical structure of domain names to identify patterns adversaries use to create related or deceptive domains.
 
 ## Pivots
-- [P0501: Prefix Matching](../../pivots/P0501.md)
-- [P0502: Typosquatting](../../pivots/P0502.md)
-- [P0503: Homograph Attacks](../../pivots/P0503.md)
-- [P0504: Substring Similarity](../../pivots/P0504.md)
+- [P0401: Prefix Matching](../../pivots/P0401.md)
+- [P0402: Typosquatting](../../pivots/P0402.md)
+- [P0403: Homograph Attacks](../../pivots/P0403.md)
+- [P0404: Substring Similarity](../../pivots/P0404.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)
