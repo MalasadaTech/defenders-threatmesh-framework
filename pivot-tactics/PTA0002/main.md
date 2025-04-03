@@ -8,13 +8,16 @@
 | Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
-This pivot tactic focuses on identifying adversary infrastructure through similarities in hosting details, such as IP addresses, shared hosting, or DNS records.
+This pivot tactic focuses on identifying adversary infrastructure through similarities in hosting details, such as IP addresses, shared hosting, DNS records, or Autonomous Systems.
 
 ## Pivots
 - [P0201: IP Address Overlap](../../pivots/P0201.md)
 - [P0202: Shared Hosting](../../pivots/P0202.md)
 - [P0203: SSL Certificate Similarity](../../pivots/P0203.md)
 - [P0204: Similar DNS Records](../../pivots/P0204.md)
+    - [P0204.001: Shared CNAME](../../pivots/P0204.001.md)
+    - [P0204.002: Shared MX Records](../../pivots/P0204.002.md)
+    - [P0204.003: Shared TXT Records](../../pivots/P0204.003.md)
 - [P0205: Shared AS](../../pivots/P0205.md)
 
 ## Navigation
