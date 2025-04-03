@@ -3,18 +3,18 @@
 ## Metadata
 | Field          | Details                                      |
 |----------------|----------------------------------------------|
-| Created        | March 31, 2025 10:00 UTC                    |
-| Last Updated   | March 31, 2025 10:00 UTC                    |
+| Created        | April 03, 2025 02:14 UTC                    |
+| Last Updated   | April 03, 2025 02:14 UTC                    |
 | Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
-This tactic focuses on analyzing the lexical structure of domain names to identify patterns adversaries use to create related or deceptive domains.
+This pivot tactic focuses on identifying adversary domains through similarities in domain names, such as prefix matching, typosquatting, homograph attacks, or substring similarity.
 
 ## Pivots
-- [P0401: Prefix Matching](../../pivots/P0401.md)
-- [P0402: Typosquatting](../../pivots/P0402.md)
+- [P0401: Substring Similarity](../../pivots/P0401.md)  
+    - [P0401.001: Prefix Matching](../../pivots/P0401.001.md)  
+- [P0402: Typosquatting](../../pivots/P0402.md)  
 - [P0403: Homograph Attacks](../../pivots/P0403.md)
-- [P0404: Substring Similarity](../../pivots/P0404.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)
