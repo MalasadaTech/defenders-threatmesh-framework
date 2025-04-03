@@ -1,4 +1,4 @@
-# PTA000Z: Behavioral Similarity
+# PTA0004: Domain Name Similarity
 
 ## Metadata
 | Field          | Details                                      |
@@ -8,13 +8,13 @@
 | Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
-This tactic focuses on identifying adversary infrastructure through similarities in behavior, such as traffic patterns or malware distribution methods.
+This tactic focuses on analyzing the lexical structure of domain names to identify patterns adversaries use to create related or deceptive domains.
 
 ## Pivots
-- [P0Z01: Traffic Patterns](../../pivots/P0Z01.md)
-- [P0Z02: Malware Distribution](../../pivots/P0Z02.md)
-- [P0Z03: Command and Control Usage](../../pivots/P0Z03.md)
-- [P0Z04: Phishing Pivots](../../pivots/P0Z04.md)
+- [P0401: Prefix Matching](../../pivots/P0401.md)
+- [P0402: Typosquatting](../../pivots/P0402.md)
+- [P0403: Homograph Attacks](../../pivots/P0403.md)
+- [P0404: Substring Similarity](../../pivots/P0404.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)
