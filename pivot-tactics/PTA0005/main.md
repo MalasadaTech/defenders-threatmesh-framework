@@ -1,4 +1,4 @@
-# PTA000Z: Behavioral Similarity
+# PTA0005: Behavioral Similarity
 
 ## Metadata
 | Field          | Details                                      |
@@ -11,10 +11,10 @@
 This tactic focuses on identifying adversary infrastructure through similarities in behavior, such as traffic patterns or malware distribution methods.
 
 ## Pivots
-- [P0Z01: Traffic Patterns](../../pivots/P0Z01.md)
-- [P0Z02: Malware Distribution](../../pivots/P0Z02.md)
-- [P0Z03: Command and Control Usage](../../pivots/P0Z03.md)
-- [P0Z04: Phishing Pivots](../../pivots/P0Z04.md)
+- [P0501: Traffic Patterns](../../pivots/P0501.md)
+- [P0502: Malware Distribution](../../pivots/P0502.md)
+- [P0503: Command and Control Usage](../../pivots/P0503.md)
+- [P0504: Phishing Pivots](../../pivots/P0504.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)
