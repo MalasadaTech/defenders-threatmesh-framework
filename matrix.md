@@ -7,7 +7,6 @@
 | [PTA0003](pivot-tactics/PTA0003/main.md) | Content Similarity         | [P0301](pivots/P0301.md) - Website Structure Similarity<br>&nbsp;&nbsp;&nbsp;&nbsp;[P0301.001](pivots/P0301.001.md) - Page Title Match<br>&nbsp;&nbsp;&nbsp;&nbsp;[P0301.002](pivots/P0301.002.md) - Embedded Code Similarity<br>~~[P0302](pivots/P0302.md) - Shared Resources~~<br>[P0303](pivots/P0303.md) - Same Resources<br>[P0304](pivots/P0304.md) - Keyword Similarity |
 | [PTA0004](pivot-tactics/PTA0004/main.md) | Domain Name Similarity     | [P0401](pivots/P0401.md) - Substring Similarity<br>&nbsp;&nbsp;&nbsp;&nbsp;[P0401.001](pivots/P0401.001.md) - Prefix Matching |
 | [PTA0005](pivot-tactics/PTA0005/main.md) | Behavioral Similarity      | [placeholder for future updates] |
-| [PTA0006](pivot-tactics/PTA0006/main.md) | Intelligence-based         | ~~[P0601](pivots/P0601.md) - Threat Actor Association~~<br>~~[P0602](pivots/P0602.md) - Malware Family Ties~~<br>~~[P0603](pivots/P0603.md) - IOC Correlation~~ |
 
 **Note**: Pivots with a ~~strikethrough~~ do not have a corresponding file in the pivots directory and are currently placeholders.
 
