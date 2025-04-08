@@ -12,16 +12,3 @@ The following individuals have contributed to the framework, listed in the order
 - **Link**: [https://x.com/malasadatech](https://x.com/malasadatech), [https://malasada.tech](https://malasada.tech)
 - **Contributions**: Created the framework, initial drafts of all tactics, pivots, and campaigns
 
-### JohnSmith
-{:#john-smith}
-
-- **Link**: [https://twitter.com/JohnSmithSec](https://twitter.com/JohnSmithSec)
-- **Contributions**: Added detection queries for P0201
-
-### CyberAlice
-{:#cyber-alice}
-
-- **Link**: [https://cyberalice.net](https://cyberalice.net)
-- **Contributions**: Provided campaign data for CA0003
-
-*Note*: Contributors can use their real name or an internet alias. To add yourself or update your info, please submit a pull request or contact the project maintainer.
