@@ -4,7 +4,7 @@
 | Field          | Details                                      |
 |----------------|----------------------------------------------|
 | Created        | March 31, 2025 10:00 UTC                    |
-| Last Updated   | April 03, 2025 02:14 UTC                    |
+| Last Updated   | April 07, 2025 05:05 UTC                    |
 | Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
@@ -18,7 +18,6 @@ This pivot tactic focuses on identifying adversary infrastructure through simila
 - [P0204: Similar DNS Records](../../pivots/P0204.md)
     - [P0204.001: Shared CNAME](../../pivots/P0204.001.md)
     - [P0204.002: Shared MX Records](../../pivots/P0204.002.md)
-    - [P0204.003: Shared TXT Records](../../pivots/P0204.003.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)
