@@ -4,7 +4,7 @@
 | Field          | Details                                      |
 |----------------|----------------------------------------------|
 | Created        | March 31, 2025 10:00 UTC                    |
-| Last Updated   | April 03, 2025 02:14 UTC                    |
+| Last Updated   | April 07, 2025 05:08 UTC                    |
 | Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
@@ -17,7 +17,6 @@ This pivot tactic focuses on identifying adversary domains through similarities 
 - [P0302: Shared Resources](../../pivots/P0302.md)  
 - [P0303: Same Resources](../../pivots/P0303.md)  
 - [P0304: Keyword Similarity](../../pivots/P0304.md)  
-- [P0305: Phishing Page Mimicry](../../pivots/P0305.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)
