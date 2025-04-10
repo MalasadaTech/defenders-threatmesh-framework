@@ -9,10 +9,10 @@ defenders-threatmesh-framework/
 │   │   └── main.md          # Overview of Registration Similarity
 │   └── ...                  # Other pivot tactics (PTA0003–PTA0006)
 ├── pivots/              # Directory for technique details
-│   ├── P0101.md             # Pivot: Prefix Matching (under PTA0001)
-│   ├── P0102.md             # Pivot: Typosquatting (under PTA0001)
-│   ├── P0201.md             # Pivot: Same Registrar (under PTA0002)
-│   └── ...                  # Other pivots (P0103–P0603)
+│   ├── P0101.001.md             # Pivot: Prefix Matching (under PTA0001)
+│   ├── P0101.010.md             # Pivot: Typosquatting (under PTA0001)
+│   ├── P0201.md             # Pivot: Registration: Registrar (under PTA0002)
+│   └── ...                  # Other pivots (P0101.002–PZ603)
 ├── examples/                # Directory for real-world examples (replaces campaigns/)
 │   ├── EX0001.md            # Example: 2023 Phishing Wave
 │   ├── EX0002.md            # Example: Fake SaaS Scam
