@@ -1,23 +1,19 @@
-# PTA0002: Infrastructure Similarity
+# PTA0002: IP
 
 ## Metadata
 | Field          | Details                                      |
 |----------------|----------------------------------------------|
 | Created        | March 31, 2025 10:00 UTC                    |
-| Last Updated   | April 07, 2025 05:05 UTC                    |
+| Last Updated   | April 10, 2025 04:15 UTC                    |
 | Contributors   | [MalasadaTech](../../contributors.md#malasadatech) - Initial draft |
 
 ## Description
-This pivot tactic focuses on identifying adversary infrastructure through similarities in hosting details, such as IP addresses, shared hosting, DNS records, or Autonomous Systems.
+This pivot tactic focuses on identifying adversary infrastructure via IP related info such as reverse DNS lookups, IP proximity, or Autonomous System info.
 
 ## Pivots
-- [P0201: IP Address Overlap](../../pivots/P0201.md)
-- [P0202: Shared AS](../../pivots/P0202.md)
-- [P0203: SSL Certificate Similarity](../../pivots/P0203.md)
-    - [P0203.001: SSL Issuer Organization](../../pivots/P0203.001.md)
-- [P0204: Similar DNS Records](../../pivots/P0204.md)
-    - [P0204.001: Shared CNAME](../../pivots/P0204.001.md)
-    - [P0204.002: Shared MX Records](../../pivots/P0204.002.md)
+- [P0201: Reverse lookup](../../pivots/P0201.md)
+- ~~[P0202: Proximity](../../pivots/P0202.md)~~
+- [P0203: AS](../../pivots/P0203.md)
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)
