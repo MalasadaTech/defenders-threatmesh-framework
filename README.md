@@ -1,6 +1,6 @@
 # Defender's ThreatMesh Framework
 
-The Defender's ThreatMesh Framework is a specialized tool designed to empower hunt analysts in uncovering additional adversary infrastructure. By pivoting on characteristics of known malicious infrastructure—such as domain name patterns, registration details, or network behaviors—this framework provides a structured approach to expand visibility into threat actors' operations. Inspired by MITRE ATT&CK, it focuses solely on discovery, offering pivot tactics and pivots to reveal hidden connections in the wild.
+The Defender's ThreatMesh Framework is a tool designed to empower hunt analysts in uncovering additional adversary infrastructure. By pivoting on characteristics of known malicious infrastructure—such as domain name patterns, registration details, or network behaviors—this framework provides a structured approach to expand visibility into threat actors' operations. Inspired by MITRE ATT&CK, it focuses solely on discovery, offering pivot tactics and pivots to reveal hidden connections in the wild.
 
 ## Overview
 - **Purpose**: Enable hunt analysts to identify more adversary infrastructure by leveraging pivots from existing data.
