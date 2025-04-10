@@ -4,10 +4,10 @@ The Defender's ThreatMesh Framework is a tool designed to empower hunt analysts 
 
 ## Overview
 - **Purpose**:
-   - Enable hunt analysts to identify more adversary infrastructure by leveraging pivots from existing data.
-   - Provide a framework to enable analysts to simplify communicating pivots to other analysts.
-   - Provide a framework to enable analysts to simplify recording pivots for recurring checks.
-   - Provide a framework that could be used as a training guide.
+   - Identify more adversary infrastructure by leveraging pivots from existing data.
+   - Simplify communicating pivots to other analysts.
+   - Streamline recording pivots for recurring checks.
+   - Serve as a potential training guide for analysts.
 - **Structure**: Pivot tactics (PTAXXXX) group related pivots (PXXYY), supported by real-world examples (EXXXXX).
 - **Usage**: Use the [matrix](matrix.md) to explore pivot tactics and pivots.
 
