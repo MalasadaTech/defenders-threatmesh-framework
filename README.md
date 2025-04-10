@@ -3,7 +3,11 @@
 The Defender's ThreatMesh Framework is a tool designed to empower hunt analysts in uncovering additional adversary infrastructure. By pivoting on characteristics of known malicious infrastructure—such as domain name patterns, registration details, or network behaviors—this framework provides a structured approach to expand visibility into threat actors' operations. Inspired by MITRE ATT&CK, it focuses solely on discovery, offering pivot tactics and pivots to reveal hidden connections in the wild.
 
 ## Overview
-- **Purpose**: Enable hunt analysts to identify more adversary infrastructure by leveraging pivots from existing data.
+- **Purpose**:
+   - Enable hunt analysts to identify more adversary infrastructure by leveraging pivots from existing data.
+   - Provide a framework to enable analysts to simplify communicating pivots to other analysts.
+   - Provide a framework to enable analysts to simplify recording pivots for recurring checks.
+   - Provide a framework that could be used as a training guide.
 - **Structure**: Pivot tactics (PTAXXXX) group related pivots (PXXYY), supported by real-world examples (EXXXXX).
 - **Usage**: Use the [matrix](matrix.md) to explore pivot tactics and pivots.
 
