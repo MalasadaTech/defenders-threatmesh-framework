@@ -14,7 +14,7 @@ Check the [matrix](matrix.md) for a full list of pivot tactics and pivots with l
 Real-world examples (EXXXXX) illustrate how analysts can deploy these pivots to uncover additional adversary infrastructure. Sourced from threat intelligence reports and blogs, these instances—like phishing waves using prefixed domains or registrar overlaps—provide context and hunting tips to enhance your pivot-based investigations. See the [examples/](examples/) directory for details.
 
 ## Contributors
-This framework is a collaborative effort, built by a community of threat hunters and analysts. Special thanks to all who have contributed their expertise. For a full list of contributors and their contributions, see [contributors.md](contributors.md).
+For a full list of contributors and their contributions, see [contributors.md](contributors.md).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
