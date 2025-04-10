@@ -4,7 +4,7 @@
 | Field          | Details                                      |
 |----------------|----------------------------------------------|
 | Created        | April 03, 2025 02:14 UTC                    |
-| Last Updated   | April 10, 2025 04:15 UTC                    |
+| Last Updated   | April 10, 2025 05:13 UTC                    |
 | Contributors   | [Silent Push](../../contributors.md#silentpush) - Initial draft |
 
 ## Description
@@ -21,7 +21,7 @@ This pivot tactic focuses on identifying adversary domains through similarities 
 - [P0102: Domain](../../pivots/P0102.md)
     - [P0102.001: Domain: TLD](../../pivots/P0102.001.md)
     - [P0102.002: Domain: Substring](../../pivots/P0102.002.md)
-    ~~- [P0102.003: Domain: Subdomain](../../pivots/P0102.003.md)~~
+    - [P0102.003: Domain: Subdomain](../../pivots/P0102.003.md)
 - [P0103: DNS](../../pivots/P0103.md)
     - [P0103.001: DNS: CNAME](../../pivots/P0103.001.md)
     - [P0103.002: DNS: MX Record](../../pivots/P0103.002.md)
