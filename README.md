@@ -10,6 +10,7 @@ The Defender's ThreatMesh Framework is a tool designed to empower hunt analysts 
    - Serve as a potential training guide for analysts.
 - **Structure**: Pivot tactics (PTAXXXX) group related pivots (PXXYY), supported by real-world examples (EXXXXX).
 - **Usage**: Use the [matrix](matrix.md) to explore pivot tactics and pivots.
+- **hIGMA**: I am in the process of implementing [hIGMA](https://github.com/MalasadaTech/hIGMA) - A sigma inspired data sharing concept (hunter's SIGMA). Share pivots just like SIGMA except it specific to pivots and uses DTF. The outputs can feed into masq-monitor, or thrintel sharing (AS OF 15AUG25). See [EX0017: LandUpdate808 Backend C2 Analysis](/examples/EX0017.md) for the first example.
 
 ## Getting Started
 Check the [matrix](matrix.md) for a full list of pivot tactics and pivots with links to detailed pages. Each entry is designed to guide you through pivoting strategies, backed by practical detection methods.
