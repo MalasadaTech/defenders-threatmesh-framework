@@ -18,6 +18,7 @@ This pivot tactic focuses on identifying adversary infrastructure based on appli
     - [P0401.004: HTTP: Same Resources ](../../pivots/P0401.004.md)  
     - [P0401.005: HTTP: Keyword Similarity](../../pivots/P0401.005.md) 
     - [P0401.006: HTTP: Same Resource Name](../../pivots/P0401.006.md) 
+    - [P0401.007: HTTP: HTTP Response](../../pivots/P0401.007.md) 
 
 ## Navigation
 - **Matrix**: [Back to Matrix](../../matrix.md)
