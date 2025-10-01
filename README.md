@@ -15,6 +15,9 @@ The Defender's ThreatMesh Framework is a tool designed to empower hunt analysts 
 ## Getting Started
 Check the [matrix](matrix.md) for a full list of pivot tactics and pivots with links to detailed pages. Each entry is designed to guide you through pivoting strategies, backed by practical detection methods.
 
+## Checklist
+A checklist is available in [checklist/checklist.md](checklist/checklist.md) that users can utilize in Obsidian markdown viewer. Clone the repository, open it in Obsidian, and update the checklist as you perform your analysis to track progress and document findings.
+
 ## Examples
 Real-world examples (EXXXXX) illustrate how analysts can deploy these pivots to uncover additional adversary infrastructure. Sourced from threat intelligence reports and blogs, these instances—like phishing waves using prefixed domains or registrar overlaps—provide context and hunting tips to enhance your pivot-based investigations. See the [examples/](examples/) directory for details.
 
