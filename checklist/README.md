@@ -1,4 +1,4 @@
-### DTF Complete Pivot Tactics Analysis Checklist
+### DTF Pivot Analysis Checklist
 
 As a thruntellisearch analyst using the Defender's ThreatMesh Framework (DTF), this consolidated checklist provides a structured approach to pivoting from seed indicators (e.g., a known malicious domain) across all pivot tactics (PTAs). Start with PTA0001 for domain-based indicators, then layer in IP, SSL/TLS, and application pivots for deeper infrastructure discovery. Combine multiple pivots (e.g., registrar + ASN + name server) for higher-fidelity clusters, and document hits for hIGMA export or new EX examples.
 
