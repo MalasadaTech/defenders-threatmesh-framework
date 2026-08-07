@@ -21,6 +21,9 @@ A checklist is available in [checklist/checklist.md](checklist/checklist.md) tha
 ## Examples
 Real-world examples (EXXXXX) illustrate how analysts can deploy these pivots to uncover additional adversary infrastructure. Sourced from threat intelligence reports and blogs, these instances—like phishing waves using prefixed domains or registrar overlaps—provide context and hunting tips to enhance your pivot-based investigations. See the [examples/](examples/) directory for details.
 
+## User Stories
+User stories define the functional requirements and acceptance criteria for each pivot in the framework. Written from an analyst's perspective, they describe what each pivot accomplishes, why it matters, and how it should work. These stories serve as development guides, training resources, and clear documentation of pivot behavior. See the [user-stories/](user-stories/) directory for the complete collection of user stories organized by pivot category.
+
 ## Contributors
 For a full list of contributors and their contributions, see [contributors.md](contributors.md).
 
